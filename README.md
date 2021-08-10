@@ -1,6 +1,6 @@
-### Olá, meu nome é Luan Maidana 👋
+# Olá, meu nome é Luan Maidana 👋
 
-  ## Seja bem vindo ao meu perfil!
+  ### Seja bem vindo ao meu perfil!
 
 - 🔭 Estou trabalhando atualmente como Service Desk Assistente de TI 
 - 🌱 Atualmente estudando ASP.NET Core e JavaScript/Node.js 
