@@ -2,7 +2,7 @@
 
   ### Seja bem vindo ao meu perfil!
 
-- 🔭 Estou trabalhando atualmente como Service Desk Assistente de TI 
+- 🔭 Estou trabalhando atualmente em Service Desk como Assistente de TI 
 - 🌱 Atualmente estudando ASP.NET Core e JavaScript/Node.js 
 
 <div>
