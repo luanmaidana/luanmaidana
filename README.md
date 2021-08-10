@@ -6,8 +6,8 @@
 - 🌱 Atualmente estudando ASP.NET Core e JavaScript/Node.js 
 
 <div>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=luanmaidana&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmaidana&layout=compact&theme=onedark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=luanmaidana&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmaidana&layout=compact&theme=cobalt"/>
   
 </div>
 
