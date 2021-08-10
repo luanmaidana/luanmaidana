@@ -15,5 +15,6 @@
 
 <div>
    <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">     
-        
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+    <i class="devicon-csharp-plain colored"></i>    
 </div>
