@@ -1,10 +1,9 @@
 ### Olá, meu nome é Luan Maidana 👋
 
-        ## Seja bem vindo ao meu perfil!
+  ## Seja bem vindo ao meu perfil!
 
 - 🔭 Estou trabalhando atualmente como Service Desk Assistente de TI 
-- 🌱 Estudando atualmente ASP.NET Core e JavaScript/Node.js 
-- 👯 I’m looking to collaborate on ...
+- 🌱 Atualmente estudando ASP.NET Core e JavaScript/Node.js 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanmaidana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -19,4 +18,11 @@
    <img align="center" alt="Javascript" height="30" width="60" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img align="center" alt="NodeJS" height="30" width="60" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
    <img align="center" alt="React" height="30" width="60" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div>
+
+##
+
+<div>
+        <a href="https://www.linkedin.com/in/luan-maidana-lima-40049718b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        
 </div>
