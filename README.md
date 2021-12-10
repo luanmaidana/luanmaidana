@@ -3,7 +3,7 @@
   ### Seja bem vindo ao meu perfil!
 
 - 🔭 Estou trabalhando atualmente como Analista de Sistemas na Unimed Campo Grande
-- 🌱 Atualmente estudando ASP.NET Core e JavaScript/Node.js 
+- 🌱 Atualmente estudando ASP.NET Core, JavaScript/Node.js e Angular
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanmaidana&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
